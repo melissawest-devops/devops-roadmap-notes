@@ -1,0 +1,4 @@
+hello devops
+INFO app started
+WARN disk at 85%
+WRITE WORKS AGAIN
