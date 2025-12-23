@@ -8,6 +8,8 @@ This repo documents my hands-on DevOps practice in WSL (Ubuntu) on Windows.
 - practice/test.txt — sample log file used for testing
 
 ## Run the script
+```bash
 cd practice
 chmod +x log_scan.sh
 ./log_scan.sh test.txt
+```
